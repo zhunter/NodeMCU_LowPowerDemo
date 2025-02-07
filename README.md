@@ -1,4 +1,4 @@
-# <center>Low-Power Demo</center>
+# <center>Low-Power Demo 2</center>
 
 There is a lot of confusion, out-of-date information, and poor or non-working examples of how to use the 5 basic low-power modes of the ESP8266.  This demo code shows you how to use them reliably.  If you're here for very low power, then the 2 Light Sleep modes and Deep Sleep are what you want.
 
