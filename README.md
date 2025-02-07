@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <center>Low-Power Demo</center>
 
 There is a lot of confusion, out-of-date information, and poor or non-working examples of how to use the 5 basic low-power modes of the ESP8266.  This demo code shows you how to use them reliably.  If you're here for very low power, then the 2 Light Sleep modes and Deep Sleep are what you want.
@@ -123,3 +124,7 @@ If you want to reduce the start-up power even more, see https://github.com/esp82
 
 You can also use the Deep Sleep modes without loading the WiFi library, as Deep Sleep use ESP API functions.  The Deep Sleep tests above turn the WiFi on to show you the differences after the 4 reset modes. but WiFi is not required for Deep Sleep.
 
+=======
+# NodeMCU_LowPowerDemo
+NodeMCU_LowPowerDemo
+>>>>>>> 269d9083159f80630979bc112bd353e47887d39b
